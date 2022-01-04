@@ -12,4 +12,4 @@ const nextConfig = {
   // i18n: { locales: ["ja"], defaultLocale: "ja" },
 };
 
-export default withTM(["ui", "next-ui"])(nextConfig);
+export default withTM(["@local/ui", "@local/next-ui"])(nextConfig);

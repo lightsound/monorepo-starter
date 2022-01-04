@@ -1,4 +1,4 @@
-import { Button } from "next-ui/Button";
+import { Button } from "@local/next-ui/Button";
 import type { VFC } from "react";
 
 export const Index: VFC = () => {

@@ -1,4 +1,4 @@
-import { NavLink } from "next-ui/Button";
+import { NavLink } from "@local/next-ui/Button";
 import type { VFC } from "react";
 
 const items = [
